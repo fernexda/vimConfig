@@ -1,0 +1,10 @@
+\documentclass[a4paper, 12pt]{article}
+
+\title{Foo}
+\author{Daniel \textsc{Fernex}}
+\date{\today}
+
+\begin{document}
+  \maketitle
+
+\end{document}
